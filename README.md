@@ -95,3 +95,6 @@ See [ASSET_CREDITS.md](ASSET_CREDITS.md) and [assets/photos/credits.json](assets
 **https://mostar-city-sooty.vercel.app/**
 
 Built as a creative front-end portfolio project demonstrating motion design, layered depth effects and interactive destination storytelling.
+
+
+<!-- Import trigger: publish website source from the linked live Vercel deployment. -->
