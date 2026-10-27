@@ -98,3 +98,5 @@ Built as a creative front-end portfolio project demonstrating motion design, lay
 
 
 <!-- Import trigger: publish website source from the linked live Vercel deployment. -->
+
+<!-- Repository source import completed successfully; run CI validation. -->
